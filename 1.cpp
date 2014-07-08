@@ -1,7 +1,7 @@
 #include<iostream>
 
 using namespace std;
-#define cons 10.0
+#define cons 2.0
 
 int main()
 {
